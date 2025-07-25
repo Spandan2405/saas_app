@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import React from "react";
 
-const Page = () => {
+const Home = () => {
   return (
     <div>
       <h1 className="text-2xl underline">Welcome to Saas App</h1>
@@ -10,4 +10,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default Home;
